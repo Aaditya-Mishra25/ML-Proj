@@ -1,1 +1,1 @@
-# ML_Proj Breast Cancer detection using Logistic Regression
+Breast Cancer detection using Logistic Regression
